@@ -58,7 +58,7 @@ void exercice3(){
     }
 }
 
-// Exercice 4 : Tarif cinéma
+// Exercice 4 : Tarif cinéma.
 void exercice4(){
     //Declaration/Initialisation des variables
     int ageClient = 0, estEtudiant = -1, tarif = 0;
